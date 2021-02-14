@@ -1,5 +1,5 @@
-# Towards Semantic-Aware Shilling Attacks against Collaborative Recommender Systems
-This file presents the reproducibility details of the paper. **Towards Semantic-Aware Shilling Attacks against Collaborative Recommender Systems** submitted at Semantic Web Journal 2021
+# Semantics-Aware Shilling Attacks against collaborative recommender systems via Knowledge Graphs
+This file presents the reproducibility details of the paper. **Semantics-Aware Shilling Attacks against collaborative recommender systems via Knowledge Graphs** submitted at Semantic Web Journal 2021
 
 **Table of Contents:**
 - [Requirements](#requirements)
